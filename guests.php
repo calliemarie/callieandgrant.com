@@ -21,20 +21,22 @@
 	</div>
 	<div id="okc">
 		<h2>Oklahoma City</h2>
+		<p>Oklahoma City has grown considerably in the last 20 years.  There is so much to do around the metro area.</p> 
+		<p>You could check out downtown, known as Bricktown has many options for dining and
+entertainment.  Bricktown also has a beautiful riverwalk to check out.  The wedding location is near Quail Springs Mall, which hosts an AMC 24. There are also a lot of other shopping opportunities.</p>
 		<img src="img/okc.jpg" alt="Oklahoma City"/>
-		<p></p>
-		
 	</div>
+	
 	<div id="accomodations">
 		<div id="location1">
-			<h5>Springhill Suites</h5>
+			<h5><a href="#">Springhill Suites</a></h5>
 			<img src="img/springhill.jpg" alt="Springhill Suites"/>
-			<p></p>
+			<p>123 Main</p>
 		</div>
 		<div id="location2">
-			<h5>Courtyard Marriott</h5>
+			<h5><a href="#">Courtyard Marriott</a></h5>
 			<img src="img/courtyard.jpg" alt="Courtyard Marriott"/>
-			<p></p>
+			<p>433 Main</p>
 		</div>	
 	</div>
 	
