@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>our story | callieandgrant.com</title>
+	<title>callieandgrant.com</title>
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Oxygen:700,300' rel='stylesheet' type='text/css'>
@@ -8,8 +8,9 @@
 </head>
 
 <body>
-<div id="header" class="clearfix">
-</div>
+<div id="header">
+	<div id="chevron">
+	</div>
 	<div id="nav">
 		<ul>
 			<li><a href="story.php">our story</a></li>
@@ -19,8 +20,9 @@
 			<li><a href="login.php">login</a></li>
 		</ul>
 	</div>
+</div>
 	<div id="callie">
-		<img src="img/callie.jpg" alt="Photo of Callie"/>
+		<img src="img/callie.jpg" alt="Photo of Callie" width="150" height="150"/>
 		<h2>Callie</h2>
 			<p>Callie grew up in Edmond, OK. She went to the University of Oklahoma and graduated with a 			Bachelor’s Degree in Journalism in 2009.</p>
 	
@@ -32,7 +34,7 @@
 		
 	</div>
 	<div id="grant">
-		<img src="img/grant.jpg" alt="Photo of Grant"/>
+		<img src="img/grant.jpg" alt="Photo of Grant" width="150" height="150"/>
 		<h2>Grant</h2>
 			<p>Grant grew up in Plano, TX. He played football in High School, which he really enjoyed. January 		2010 Grant moved to Orlando, FL to begin his Disney College Program at Walt Disney World® Resort.</p>  
 	

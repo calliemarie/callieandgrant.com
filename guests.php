@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>our guests | callieandgrant.com</title>
+	<title>callieandgrant.com</title>
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Oxygen:700,300' rel='stylesheet' type='text/css'>
@@ -8,8 +8,9 @@
 </head>
 
 <body>
-<div id="header" class="clearfix">
-</div>
+<div id="header">
+	<div id="chevron">
+	</div>
 	<div id="nav">
 		<ul>
 			<li><a href="story.php">our story</a></li>
@@ -19,6 +20,7 @@
 			<li><a href="login.php">login</a></li>
 		</ul>
 	</div>
+</div>
 	<div id="okc">
 		<h2>Oklahoma City</h2>
 		<p>Oklahoma City has grown considerably in the last 20 years.  There is so much to do around the metro area.</p> 
